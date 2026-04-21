@@ -3,4 +3,5 @@ A modern and fully responsive portfolio website. This project was built using HT
 
 ## 📂 Repository
 You can view the project repository here:  
-https://github.com/your-username/your-repository-name
+https://github.com/Ziad-amara/Portofolio-website
+
